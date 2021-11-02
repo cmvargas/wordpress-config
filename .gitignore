@@ -1,2 +1,4 @@
 .env
 /wordpress
+/dbdata
+/nginx-conf/options-ssl-nginx.conf
